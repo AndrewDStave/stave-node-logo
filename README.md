@@ -1,0 +1,1 @@
+# stave-node-logo
