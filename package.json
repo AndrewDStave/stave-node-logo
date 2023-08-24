@@ -1,0 +1,17 @@
+{
+  "name": "stave-node-logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.10",
+    "svg-builder": "^2.0.0"
+  }
+}
